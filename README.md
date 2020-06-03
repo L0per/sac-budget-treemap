@@ -12,6 +12,8 @@ Originally displaying the 2015/2016 budget, a new json file had to be generated 
 
 ## To-do
 
-* Modify coloring if there was no budget for 2017.
-* Verify department names for 2017 vs 2018 as there seems to be many "new" departments in 2018.
-* Add descriptions.
+* Some category text is still cut off, adjust size or chart or "Other Category" cutoff
+* Correct department/division/account names between 2017 and 2018 for %change calculation
+* Add descriptions
+* Likely easier to do in node.js?
+* Investigate highcharts treemap drilldown: https://www.highcharts.com/demo/treemap-large-dataset
