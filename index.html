@@ -18,8 +18,8 @@ body {
 }
 
 #chart {
-  width: 960px;
-  height: 460px;
+  width: 1100px;
+  height: 600px;
   margin: 1px auto;
   position: relative;
   pointer-events: all;
@@ -149,8 +149,8 @@ var dollarformat = d3.format("$0,000")
 var pctformat = d3.format("00.0%")
 
 var margin = {top: 40, right: 0, bottom: 0, left: 0},
-    width = 960,
-    height = 460 - margin.top - margin.bottom,
+    width = 1100,
+    height = 600 - margin.top - margin.bottom,
     formatNumber = d3.format(",d"),
 	formatLegend = d3.format(",%"),
     colorDomain = [-5000, -500, -20, -5, 0, 5, 20, 500, 5000],
@@ -458,7 +458,7 @@ d3.json("data/sacbudget_2018.json", function(root) {
        .attr("y", function(d) { return y(d.y); })
        .attr("width", function(d) { return x(d.x + d.dx) - x(d.x); })
 	   .attr("height", function(d) { return y(d.y + d.dy) - y(d.y); })
-	   .attr("fill", function(d){return (parseFloat(d.amount2017) == 0) ? color(0) : color((parseFloat(d.amount2018)/parseFloat(d.amount2017)-1)*100);});
+	   .attr("fill", function(d){return (parseFloat(d.amount2017) < 3000) ? color(0) : color((parseFloat(d.amount2018)/parseFloat(d.amount2017)-1)*100);});
   }
   
   
