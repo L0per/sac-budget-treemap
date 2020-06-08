@@ -4168,25 +4168,25 @@
                             "name": "Earnings",
                             "desc": "",
                             "amount2018": 1299943.0,
-                            "amount2017": 0.0
+                            "amount2017": 815005.0
                         },
                         {
                             "name": "Employee Benefits",
                             "desc": "",
                             "amount2018": 7443375.0,
-                            "amount2017": 0.0
+                            "amount2017": 6228066.0
                         },
                         {
                             "name": "Employer Paid Taxes",
                             "desc": "",
                             "amount2018": 1281602.0,
-                            "amount2017": 0.0
+                            "amount2017": 1017199.0
                         },
                         {
                             "name": "General Supplies",
                             "desc": "",
                             "amount2018": 646863.0,
-                            "amount2017": 0.0
+                            "amount2017": 482013.0
                         },
                         {
                             "name": "Interfund Reimbursement",
@@ -4198,7 +4198,7 @@
                             "name": "Salaries",
                             "desc": "",
                             "amount2018": 16978159.0,
-                            "amount2017": 0.0
+                            "amount2017": 13234145.0
                         },
                         {
                             "name": "Service & Supply Adjustments",
@@ -4214,13 +4214,13 @@
                                     "name": "Books and Periodicals",
                                     "desc": "",
                                     "amount2018": 900.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 300.0
                                 },
                                 {
                                     "name": "Food",
                                     "desc": "",
                                     "amount2018": 2546.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 1800.0
                                 },
                                 {
                                     "name": "Labor Adjustments",
@@ -4232,31 +4232,31 @@
                                     "name": "Other Objects",
                                     "desc": "",
                                     "amount2018": 42271.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 13145.0
                                 },
                                 {
                                     "name": "Other Purchased Services",
                                     "desc": "",
                                     "amount2018": 125670.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 125270.0
                                 },
                                 {
                                     "name": "Property Accounts",
                                     "desc": "",
                                     "amount2018": 135029.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 3900.0
                                 },
                                 {
                                     "name": "Purchased Prof and Tech Svcs",
                                     "desc": "",
                                     "amount2018": 274919.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 91919.0
                                 },
                                 {
                                     "name": "Purchased Property Services",
                                     "desc": "",
                                     "amount2018": 463647.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 97609.0
                                 },
                                 {
                                     "name": "Transfers 1",
@@ -4276,25 +4276,25 @@
                             "name": "Earnings",
                             "desc": "",
                             "amount2018": 2376330.0,
-                            "amount2017": 0.0
+                            "amount2017": 1198475.0
                         },
                         {
                             "name": "Employee Benefits",
                             "desc": "",
                             "amount2018": 25143264.0,
-                            "amount2017": 0.0
+                            "amount2017": 17706622.0
                         },
                         {
                             "name": "Employer Paid Taxes",
                             "desc": "",
                             "amount2018": 3310768.0,
-                            "amount2017": 0.0
+                            "amount2017": 2522982.0
                         },
                         {
                             "name": "Salaries",
                             "desc": "",
                             "amount2018": 56730022.0,
-                            "amount2017": 0.0
+                            "amount2017": 36730596.0
                         },
                         {
                             "name": "Other Accounts",
@@ -4304,37 +4304,37 @@
                                     "name": "Books and Periodicals",
                                     "desc": "",
                                     "amount2018": 1900.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 930.0
                                 },
                                 {
                                     "name": "Energy and Fuel",
                                     "desc": "",
                                     "amount2018": 395410.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 10877.0
                                 },
                                 {
                                     "name": "Food",
                                     "desc": "",
                                     "amount2018": 65361.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 15871.0
                                 },
                                 {
                                     "name": "General Supplies",
                                     "desc": "",
                                     "amount2018": 79260.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 120414.0
                                 },
                                 {
                                     "name": "Interfund Reimbursement",
                                     "desc": "",
                                     "amount2018": 755152.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 735410.0
                                 },
                                 {
                                     "name": "Interfund SerProvided",
                                     "desc": "",
                                     "amount2018": 80000.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 50.0
                                 },
                                 {
                                     "name": "Labor Adjustments",
@@ -4346,37 +4346,37 @@
                                     "name": "Other Objects",
                                     "desc": "",
                                     "amount2018": 2083.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 1709.0
                                 },
                                 {
                                     "name": "Other Purchased Services",
                                     "desc": "",
                                     "amount2018": 686691.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 241105.0
                                 },
                                 {
                                     "name": "Property Accounts",
                                     "desc": "",
                                     "amount2018": 77214.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 2686.0
                                 },
                                 {
                                     "name": "Purchased Prof and Tech Svcs",
                                     "desc": "",
                                     "amount2018": 323669.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 47416.0
                                 },
                                 {
                                     "name": "Purchased Property Services",
                                     "desc": "",
                                     "amount2018": 418899.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 20833.0
                                 },
                                 {
                                     "name": "Service & Supply Adjustments",
                                     "desc": "",
                                     "amount2018": 10000.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 10000.0
                                 }
                             ]
                         }
@@ -4390,31 +4390,31 @@
                             "name": "Earnings",
                             "desc": "",
                             "amount2018": 512769.0,
-                            "amount2017": 0.0
+                            "amount2017": 2718406.0
                         },
                         {
                             "name": "Employee Benefits",
                             "desc": "",
                             "amount2018": 6926910.0,
-                            "amount2017": 0.0
+                            "amount2017": 17368175.0
                         },
                         {
                             "name": "Employer Paid Taxes",
                             "desc": "",
                             "amount2018": 786857.0,
-                            "amount2017": 0.0
+                            "amount2017": 3562990.0
                         },
                         {
                             "name": "Interfund Reimbursement",
                             "desc": "",
                             "amount2018": 1394312.0,
-                            "amount2017": 0.0
+                            "amount2017": 3216811.0
                         },
                         {
                             "name": "Salaries",
                             "desc": "",
                             "amount2018": 14413175.0,
-                            "amount2017": 0.0
+                            "amount2017": 41348441.0
                         },
                         {
                             "name": "Other Accounts",
@@ -4424,61 +4424,79 @@
                                     "name": "Books and Periodicals",
                                     "desc": "",
                                     "amount2018": 4450.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 7350.0
                                 },
                                 {
                                     "name": "Energy and Fuel",
                                     "desc": "",
                                     "amount2018": 2855.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 2294217.0
                                 },
                                 {
                                     "name": "Food",
                                     "desc": "",
                                     "amount2018": 18337.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 70573.0
                                 },
                                 {
                                     "name": "General Supplies",
                                     "desc": "",
                                     "amount2018": 135753.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 380176.0
                                 },
                                 {
                                     "name": "Interfund SerProvided",
                                     "desc": "",
                                     "amount2018": 50.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 105000.0
+                                },
+                                {
+                                    "name": "Labor Adjustments",
+                                    "desc": "",
+                                    "amount2018": 0.0,
+                                    "amount2017": 200000.0
+                                },
+                                {
+                                    "name": "Operating Transfers Accounts",
+                                    "desc": "",
+                                    "amount2018": 0.0,
+                                    "amount2017": 1416280.0
                                 },
                                 {
                                     "name": "Other Objects",
                                     "desc": "",
                                     "amount2018": 2080.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 39780.0
                                 },
                                 {
                                     "name": "Other Purchased Services",
                                     "desc": "",
                                     "amount2018": 283206.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 765560.0
                                 },
                                 {
                                     "name": "Property Accounts",
                                     "desc": "",
                                     "amount2018": 67500.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 2016157.0
                                 },
                                 {
                                     "name": "Purchased Prof and Tech Svcs",
                                     "desc": "",
                                     "amount2018": 110367.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 574420.0
                                 },
                                 {
                                     "name": "Purchased Property Services",
                                     "desc": "",
                                     "amount2018": 211127.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 3538106.0
+                                },
+                                {
+                                    "name": "Service & Supply Adjustments",
+                                    "desc": "",
+                                    "amount2018": 0.0,
+                                    "amount2017": 1830000.0
                                 }
                             ]
                         }
@@ -4583,320 +4601,7 @@
                 {
                     "name": "Other Divisions",
                     "desc": "",
-                    "children": [
-                        {
-                            "name": "Field Services Division",
-                            "desc": "",
-                            "children": [
-                                {
-                                    "name": "Other Accounts",
-                                    "desc": "",
-                                    "children": [
-                                        {
-                                            "name": "Books and Periodicals",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 7350.0
-                                        },
-                                        {
-                                            "name": "Earnings",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 2718406.0
-                                        },
-                                        {
-                                            "name": "Employee Benefits",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 17368175.0
-                                        },
-                                        {
-                                            "name": "Employer Paid Taxes",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 3562990.0
-                                        },
-                                        {
-                                            "name": "Energy and Fuel",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 2294217.0
-                                        },
-                                        {
-                                            "name": "Food",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 70573.0
-                                        },
-                                        {
-                                            "name": "General Supplies",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 380176.0
-                                        },
-                                        {
-                                            "name": "Interfund Reimbursement",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 3216811.0
-                                        },
-                                        {
-                                            "name": "Interfund SerProvided",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 105000.0
-                                        },
-                                        {
-                                            "name": "Labor Adjustments",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 200000.0
-                                        },
-                                        {
-                                            "name": "Operating Transfers Accounts",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 1416280.0
-                                        },
-                                        {
-                                            "name": "Other Objects",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 39780.0
-                                        },
-                                        {
-                                            "name": "Other Purchased Services",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 765560.0
-                                        },
-                                        {
-                                            "name": "Property Accounts",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 2016157.0
-                                        },
-                                        {
-                                            "name": "Purchased Prof and Tech Svcs",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 574420.0
-                                        },
-                                        {
-                                            "name": "Purchased Property Services",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 3538106.0
-                                        },
-                                        {
-                                            "name": "Salaries",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 41348441.0
-                                        },
-                                        {
-                                            "name": "Service & Supply Adjustments",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 1830000.0
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Investigations Division",
-                            "desc": "",
-                            "children": [
-                                {
-                                    "name": "Other Accounts",
-                                    "desc": "",
-                                    "children": [
-                                        {
-                                            "name": "Books and Periodicals",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 300.0
-                                        },
-                                        {
-                                            "name": "Earnings",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 815005.0
-                                        },
-                                        {
-                                            "name": "Employee Benefits",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 6228066.0
-                                        },
-                                        {
-                                            "name": "Employer Paid Taxes",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 1017199.0
-                                        },
-                                        {
-                                            "name": "Food",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 1800.0
-                                        },
-                                        {
-                                            "name": "General Supplies",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 482013.0
-                                        },
-                                        {
-                                            "name": "Other Objects",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 13145.0
-                                        },
-                                        {
-                                            "name": "Other Purchased Services",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 125270.0
-                                        },
-                                        {
-                                            "name": "Property Accounts",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 3900.0
-                                        },
-                                        {
-                                            "name": "Purchased Prof and Tech Svcs",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 91919.0
-                                        },
-                                        {
-                                            "name": "Purchased Property Services",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 97609.0
-                                        },
-                                        {
-                                            "name": "Salaries",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 13234145.0
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Operational Services Division",
-                            "desc": "",
-                            "children": [
-                                {
-                                    "name": "Other Accounts",
-                                    "desc": "",
-                                    "children": [
-                                        {
-                                            "name": "Books and Periodicals",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 930.0
-                                        },
-                                        {
-                                            "name": "Earnings",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 1198475.0
-                                        },
-                                        {
-                                            "name": "Employee Benefits",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 17706622.0
-                                        },
-                                        {
-                                            "name": "Employer Paid Taxes",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 2522982.0
-                                        },
-                                        {
-                                            "name": "Energy and Fuel",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 10877.0
-                                        },
-                                        {
-                                            "name": "Food",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 15871.0
-                                        },
-                                        {
-                                            "name": "General Supplies",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 120414.0
-                                        },
-                                        {
-                                            "name": "Interfund Reimbursement",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 735410.0
-                                        },
-                                        {
-                                            "name": "Interfund SerProvided",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 50.0
-                                        },
-                                        {
-                                            "name": "Other Objects",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 1709.0
-                                        },
-                                        {
-                                            "name": "Other Purchased Services",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 241105.0
-                                        },
-                                        {
-                                            "name": "Property Accounts",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 2686.0
-                                        },
-                                        {
-                                            "name": "Purchased Prof and Tech Svcs",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 47416.0
-                                        },
-                                        {
-                                            "name": "Purchased Property Services",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 20833.0
-                                        },
-                                        {
-                                            "name": "Salaries",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 36730596.0
-                                        },
-                                        {
-                                            "name": "Service & Supply Adjustments",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 10000.0
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
+                    "children": []
                 }
             ]
         },
@@ -5326,19 +5031,19 @@
                             "name": "Employee Benefits",
                             "desc": "",
                             "amount2018": 2358943.0,
-                            "amount2017": 2272758.0
+                            "amount2017": 2343745.0
                         },
                         {
                             "name": "Employer Paid Taxes",
                             "desc": "",
                             "amount2018": 692984.0,
-                            "amount2017": 655600.0
+                            "amount2017": 687604.0
                         },
                         {
                             "name": "Energy and Fuel",
                             "desc": "",
                             "amount2018": 703477.0,
-                            "amount2017": 512806.0
+                            "amount2017": 747806.0
                         },
                         {
                             "name": "Interfund Reimbursement",
@@ -5356,7 +5061,7 @@
                             "name": "Other Purchased Services",
                             "desc": "",
                             "amount2018": 460836.0,
-                            "amount2017": 474341.0
+                            "amount2017": 502930.0
                         },
                         {
                             "name": "Property Accounts",
@@ -5368,19 +5073,19 @@
                             "name": "Purchased Prof and Tech Svcs",
                             "desc": "",
                             "amount2018": 3661156.0,
-                            "amount2017": 3631611.0
+                            "amount2017": 3682511.0
                         },
                         {
                             "name": "Purchased Property Services",
                             "desc": "",
                             "amount2018": 1335430.0,
-                            "amount2017": 1301419.0
+                            "amount2017": 1335619.0
                         },
                         {
                             "name": "Salaries",
                             "desc": "",
                             "amount2018": 6347323.0,
-                            "amount2017": 5930030.0
+                            "amount2017": 6242866.0
                         },
                         {
                             "name": "Other Accounts",
@@ -5396,37 +5101,37 @@
                                     "name": "Earnings",
                                     "desc": "",
                                     "amount2018": 154267.0,
-                                    "amount2017": 148917.0
+                                    "amount2017": 154267.0
                                 },
                                 {
                                     "name": "Food",
                                     "desc": "",
                                     "amount2018": 2400.0,
-                                    "amount2017": 2000.0
+                                    "amount2017": 2400.0
                                 },
                                 {
                                     "name": "General Supplies",
                                     "desc": "",
                                     "amount2018": 254555.0,
-                                    "amount2017": 247055.0
+                                    "amount2017": 254555.0
                                 },
                                 {
                                     "name": "Interfund SerProvided",
                                     "desc": "",
                                     "amount2018": 18576.0,
-                                    "amount2017": 14700.0
+                                    "amount2017": 18576.0
                                 },
                                 {
                                     "name": "Inventory Supplies",
                                     "desc": "",
                                     "amount2018": 25000.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 25000.0
                                 },
                                 {
                                     "name": "Other Objects",
                                     "desc": "",
                                     "amount2018": 163616.0,
-                                    "amount2017": 157016.0
+                                    "amount2017": 163616.0
                                 },
                                 {
                                     "name": "Service & Supply Adjustments",
@@ -5665,96 +5370,6 @@
                     "desc": "",
                     "children": [
                         {
-                            "name": "Marina Division",
-                            "desc": "",
-                            "children": [
-                                {
-                                    "name": "Other Accounts",
-                                    "desc": "",
-                                    "children": [
-                                        {
-                                            "name": "Earnings",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 5350.0
-                                        },
-                                        {
-                                            "name": "Employee Benefits",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 70987.0
-                                        },
-                                        {
-                                            "name": "Employer Paid Taxes",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 32004.0
-                                        },
-                                        {
-                                            "name": "Energy and Fuel",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 235000.0
-                                        },
-                                        {
-                                            "name": "Food",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 400.0
-                                        },
-                                        {
-                                            "name": "General Supplies",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 7500.0
-                                        },
-                                        {
-                                            "name": "Interfund SerProvided",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 3876.0
-                                        },
-                                        {
-                                            "name": "Inventory Supplies",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 25000.0
-                                        },
-                                        {
-                                            "name": "Other Objects",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 6600.0
-                                        },
-                                        {
-                                            "name": "Other Purchased Services",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 28589.0
-                                        },
-                                        {
-                                            "name": "Purchased Prof and Tech Svcs",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 50900.0
-                                        },
-                                        {
-                                            "name": "Purchased Property Services",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 34200.0
-                                        },
-                                        {
-                                            "name": "Salaries",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 312836.0
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
                             "name": "Office of the Director",
                             "desc": "",
                             "children": [
@@ -5872,31 +5487,31 @@
                             "name": "Employee Benefits",
                             "desc": "",
                             "amount2018": 1483674.0,
-                            "amount2017": 0.0
+                            "amount2017": 1365761.0
                         },
                         {
                             "name": "Employer Paid Taxes",
                             "desc": "",
                             "amount2018": 495655.0,
-                            "amount2017": 0.0
+                            "amount2017": 420678.0
                         },
                         {
                             "name": "Interfund Reimbursement",
                             "desc": "",
                             "amount2018": 7127329.0,
-                            "amount2017": 0.0
+                            "amount2017": 6317328.0
                         },
                         {
                             "name": "Purchased Prof and Tech Svcs",
                             "desc": "",
                             "amount2018": 2027104.0,
-                            "amount2017": 0.0
+                            "amount2017": 2053542.0
                         },
                         {
                             "name": "Salaries",
                             "desc": "",
                             "amount2018": 4481073.0,
-                            "amount2017": 0.0
+                            "amount2017": 3993727.0
                         },
                         {
                             "name": "Other Accounts",
@@ -5906,61 +5521,61 @@
                                     "name": "Books and Periodicals",
                                     "desc": "",
                                     "amount2018": 1538.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 1538.0
                                 },
                                 {
                                     "name": "Earnings",
                                     "desc": "",
                                     "amount2018": 65400.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 46652.0
                                 },
                                 {
                                     "name": "Energy and Fuel",
                                     "desc": "",
                                     "amount2018": 15894.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 16651.0
                                 },
                                 {
                                     "name": "Food",
                                     "desc": "",
                                     "amount2018": 300.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 300.0
                                 },
                                 {
                                     "name": "General Supplies",
                                     "desc": "",
                                     "amount2018": 90047.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 102942.0
                                 },
                                 {
                                     "name": "Interfund SerProvided",
                                     "desc": "",
                                     "amount2018": 17832.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 17832.0
                                 },
                                 {
                                     "name": "Other Objects",
                                     "desc": "",
                                     "amount2018": 4256.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 4256.0
                                 },
                                 {
                                     "name": "Other Purchased Services",
                                     "desc": "",
                                     "amount2018": 101117.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 91885.0
                                 },
                                 {
                                     "name": "Property Accounts",
                                     "desc": "",
                                     "amount2018": 86550.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 54938.0
                                 },
                                 {
                                     "name": "Purchased Property Services",
                                     "desc": "",
                                     "amount2018": 61249.0,
-                                    "amount2017": 0.0
+                                    "amount2017": 80533.0
                                 },
                                 {
                                     "name": "Service & Supply Adjustments",
@@ -6305,110 +5920,7 @@
                 {
                     "name": "Other Divisions",
                     "desc": "",
-                    "children": [
-                        {
-                            "name": "Business & Integrated Planning Division",
-                            "desc": "",
-                            "children": [
-                                {
-                                    "name": "Other Accounts",
-                                    "desc": "",
-                                    "children": [
-                                        {
-                                            "name": "Books and Periodicals",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 1538.0
-                                        },
-                                        {
-                                            "name": "Earnings",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 46652.0
-                                        },
-                                        {
-                                            "name": "Employee Benefits",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 1365761.0
-                                        },
-                                        {
-                                            "name": "Employer Paid Taxes",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 420678.0
-                                        },
-                                        {
-                                            "name": "Energy and Fuel",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 16651.0
-                                        },
-                                        {
-                                            "name": "Food",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 300.0
-                                        },
-                                        {
-                                            "name": "General Supplies",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 102942.0
-                                        },
-                                        {
-                                            "name": "Interfund Reimbursement",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 6317328.0
-                                        },
-                                        {
-                                            "name": "Interfund SerProvided",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 17832.0
-                                        },
-                                        {
-                                            "name": "Other Objects",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 4256.0
-                                        },
-                                        {
-                                            "name": "Other Purchased Services",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 91885.0
-                                        },
-                                        {
-                                            "name": "Property Accounts",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 54938.0
-                                        },
-                                        {
-                                            "name": "Purchased Prof and Tech Svcs",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 2053542.0
-                                        },
-                                        {
-                                            "name": "Purchased Property Services",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 80533.0
-                                        },
-                                        {
-                                            "name": "Salaries",
-                                            "desc": "",
-                                            "amount2018": 0.0,
-                                            "amount2017": 3993727.0
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
+                    "children": []
                 }
             ]
         },

@@ -333,8 +333,8 @@ d3.json("data/sacbudget_2018.json", function(root) {
 	      .style("opacity", 1)
 		  .style("height", (d.desc!=null ? (Math.ceil(d.desc.length/75)*19+107) + "px" : "107px"))
 	      div.html("<br/>"+d.name + "<br/> <br/>" + "2018 (Proposed) :     " + dollarformat(d.amount2018) + " <br/> 2017 (Actual) :     " + dollarformat(d.amount2017) +"<br/> <br/>"+(d.desc!=null ? d.desc : ""))
-	      .style("left", Math.max(Math.min((d3.event.pageX - 350),430),20) + "px")
-		  .style("top", Math.min((d3.event.pageY-70),200) + "px");
+	      .style("left", Math.max(Math.min((d3.event.pageX - 350),900),20) + "px")
+		  .style("top", Math.min((d3.event.pageY-70),500) + "px");
 	    })
 	    .on("mouseout", function() {
 	      div.transition().duration(50)
